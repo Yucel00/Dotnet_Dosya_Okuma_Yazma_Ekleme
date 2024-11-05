@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "13.Dosya_Islemleri/1.0.0": {
+        "runtime": {
+          "13.Dosya_Islemleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13.Dosya_Islemleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

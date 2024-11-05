@@ -1,0 +1,14 @@
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\bin\Debug\net8.0\13.Dosya_Islemleri.exe
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\bin\Debug\net8.0\13.Dosya_Islemleri.deps.json
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\bin\Debug\net8.0\13.Dosya_Islemleri.runtimeconfig.json
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\bin\Debug\net8.0\13.Dosya_Islemleri.dll
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\bin\Debug\net8.0\13.Dosya_Islemleri.pdb
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\obj\Debug\net8.0\13.Dosya_Islemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\obj\Debug\net8.0\13.Dosya_Islemleri.AssemblyInfoInputs.cache
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\obj\Debug\net8.0\13.Dosya_Islemleri.AssemblyInfo.cs
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\obj\Debug\net8.0\13.Dosya_Islemleri.csproj.CoreCompileInputs.cache
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\obj\Debug\net8.0\13.Dosya_Islemleri.dll
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\obj\Debug\net8.0\refint\13.Dosya_Islemleri.dll
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\obj\Debug\net8.0\13.Dosya_Islemleri.pdb
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\obj\Debug\net8.0\13.Dosya_Islemleri.genruntimeconfig.cache
+C:\Users\yucel\Desktop\C# Dersleri\13.Dosya_Islemleri\obj\Debug\net8.0\ref\13.Dosya_Islemleri.dll
